@@ -1,6 +1,8 @@
 import java.util.ArrayList;
 import java.util.List;
 
+// this is a test string *********************************************************************
+
 class Customer implements Cr1, Cr2 {
 	private String lastName;
 	private String phoneNumber = "000-000-0000";
