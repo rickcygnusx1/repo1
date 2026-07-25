@@ -1,8 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
 
-// ++++++++++++++++++++++++++++++++++++++++
-// this is the next test string
+// on main branch
 //**************************************************
 // this is the original Customer file and this line is created on the new branch branch1
 
