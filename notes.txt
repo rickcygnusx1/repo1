@@ -1,0 +1,24 @@
+gh auth login
+gh auth status
+gh repo view
+git config --global --list
+git remote add origin <url>: Links a local repository to a remote URL via the keyword "origin"
+git log --oneline
+git remote -v: lists keyword to url mappings
+git branch: lists local branches
+git branch -r: lists remote branches (on Github account)
+git branch -a
+git branch -d <branch name>: delete a branch
+gh repo create git-practice --private --source=. --remote=origin --push: Create a new private repository on GitHub and push the code
+
+
+gh repo list
+git add .
+git commit -m "< description >"
+git push -u origin main (from then on: git push)
+     -u = --set-upstream
+git push -u origin <branch name>: when you want to push a whole branch
+git fetch: check if there are any new commits
+git pull: download new commits
+git checkout -b <branch name>: create a new branch and switch to it
+git merge <branch name>: merge changes from <branch name> to the main branch, execute this on main branch
